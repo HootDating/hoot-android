@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "338355346622",
+    "firebase_url": "https://hoot-d3a7a.firebaseio.com",
+    "project_id": "hoot-d3a7a",
+    "storage_bucket": "hoot-d3a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338355346622:android:b3272fe99b485bca",
+        "android_client_info": {
+          "package_name": "org.hootdating.hoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338355346622-5590pcqghaea3v2afcr44gfs1i2ufk4c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "338355346622-5590pcqghaea3v2afcr44gfs1i2ufk4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEVzzCy6k-9sSVrYZkH3k8wkDx08cF0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

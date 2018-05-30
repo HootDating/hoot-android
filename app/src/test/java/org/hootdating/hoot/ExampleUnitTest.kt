@@ -1,5 +1,5 @@
 /*
- * Hoot is a dating people designed to match people with their ideal mates.
+ * Hoot is a dating app designed to match people with their ideal mates.
  * Copyright (C) 2018 Geetesh Kalakoti, Kevin Tung, Eric Li
  *
  * This program is free software: you can redistribute it and/or modify
